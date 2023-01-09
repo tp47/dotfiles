@@ -137,6 +137,7 @@ set cursorline
 set t_Co=256
 set backup
 set mouse=a
+set shell=zsh
 let mapleader=","
 let &t_TI = ""
 let &t_TE = ""
